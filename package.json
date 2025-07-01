@@ -1,8 +1,8 @@
 {
   "name": "ppms",
   "version": "0.1.0",
-  "homepage": "https://jessicakflpublic.github.io/ppms",
   "private": true,
+  "homepage": "https://jessicakflpublic.github.io/ppms/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
