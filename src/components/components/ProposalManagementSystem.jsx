@@ -42,7 +42,7 @@ const ProposalManagementSystem = () => {
     const sampleProposals = [
       {
         id: 1,
-        title: 'E-commerce Website Redesign',
+        title: 'E-commerce Website Redesign123',
         description: 'Complete redesign of the existing e-commerce platform with modern UI/UX and improved performance.',
         client: 'TechCorp Inc.',
         budget: '$75,000',
